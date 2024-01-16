@@ -1,7 +1,1 @@
-echo "# 2SMR2324Pio" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/daannii11/2SMR2324Pio.git
-git push -u origin main
+echo 2SMR2324PIO
